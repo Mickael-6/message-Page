@@ -297,6 +297,16 @@ body {
     
       display: none;
       }
+    .border-red4{
+      border: solid 5px #ff0707;
+      height: 30px;
+      width: 72px;
+      margin-left: 133px;
+      margin-top: -7px;
+      position: absolute;
+      display: none;
+     
+      }
     
   
   
